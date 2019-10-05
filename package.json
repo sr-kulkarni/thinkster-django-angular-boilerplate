@@ -24,7 +24,7 @@
     "gulp": "^4.0.0",
     "gulp-ng-annotate": "^0.3.3",
     "gulp-uglify": "^1.0.1",
-    "snyk": "^1.103.0"
+    "snyk": "^1.231.0"
   },
   "snyk": true
 }
